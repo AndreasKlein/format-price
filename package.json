@@ -35,6 +35,6 @@
         "lodash": "~2.4.1"
     },
     "dependencies": {
-        "intl": "~0.1.2"
+        "intl": "1.1.0"
     }
 }
